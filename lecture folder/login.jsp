@@ -1,0 +1,1 @@
+<h3>User ID: <%= request.getParameter("id") %></h3>
